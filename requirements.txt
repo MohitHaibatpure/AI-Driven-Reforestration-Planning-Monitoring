@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg[binary]
+geoalchemy2
+requests
+scikit-learn
+pandas
+joblib
+twilio
+reportlab
+python-dotenv
+uvloop
+python-multipart
+streamlit
+streamlit-folium
+folium
